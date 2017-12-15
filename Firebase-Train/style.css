@@ -1,0 +1,15 @@
+.jumbotron{
+background-color: rgb(60, 179, 113);
+color: white;
+}
+
+body {
+    background-image: url("slo.jpg");
+}
+
+h3{
+	text-align: center
+	font-size: 20%;
+	font-style: italic;
+
+}
